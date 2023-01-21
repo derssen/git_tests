@@ -25,4 +25,4 @@ for i_place, i_result in scores.items():
         print(f'{i_place}-е место. {i_n} ({i_s})')
 
 print('Протокол заполнен.')
-print('---')
+print('-----')
